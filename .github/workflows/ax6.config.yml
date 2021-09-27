@@ -1,6 +1,6 @@
 #
 
-name: Build OpenWrt
+name: AX6_TEST
 
 on:
   repository_dispatch:
